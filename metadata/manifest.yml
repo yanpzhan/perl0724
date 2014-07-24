@@ -53,9 +53,9 @@ Endpoints:
     Backend: ''
     Options:
       health: true
-#Source-Md5: 7d7f7dc86caba2a15ea46e1ed6c3211b
-Source-Url: https://github.com/yanpzhan/php0724.git
-#Source-Url: https://raw.github.com/yanpzhan/php0724/master/php0724.zip
+Source-Md5: 7d7f7dc86caba2a15ea46e1ed6c3211b
+#Source-Url: https://github.com/yanpzhan/php0724.git
+Source-Url: https://raw.github.com/yanpzhan/php0724/master/php0724.zip
 #Source-Url: https://raw.github.com/yanpzhan/php0724/master/php0724.tar.gz
 #Source-Url: https://www.baidu.com
 #Source-Url: https://raw.github.com/yanpzhan/php0724/master/wrongtest.tar.gz
