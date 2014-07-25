@@ -13,7 +13,7 @@ locked_files:
 - etc/conf/*
 - etc/conf.d/
 processed_templates:
-- '**/*.erb'
+#- '**/*.erb'
 dependency_dirs:
 - ~/.cpanm
 - perl5lib
